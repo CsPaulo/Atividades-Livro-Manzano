@@ -1,2 +1,2 @@
 # Atividades_Livro_Manzano
-Códigos do livro Manzano utilizando-se da linguagem C para a implementação dos exercícios
+Utilização da linguagem C para a resolução dos exercícios propostos no livro Manzano
